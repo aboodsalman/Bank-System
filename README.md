@@ -1,5 +1,4 @@
-This is my first OOP project created using Java, this project works to simulate a banking system
-The project application gives the user the opportunity to perform various operations:
+This is my first OOP project created using Java, this project works to simulate a banking system. The project application gives the user the opportunity to perform various operations:
 * Opening/Closing a banks account.
 * Depositing and withdrawing money.
 * Revealing the balance and all details of a specific account.
